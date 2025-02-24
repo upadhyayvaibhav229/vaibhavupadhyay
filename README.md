@@ -4,6 +4,10 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=upadhyayvaibhav229&color=blue)
 
 ---
+<div align="center">
+ <img  src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Web+Developer;Quick+learner;Self+Motivated;Problem+Solver;&color=teal&center=true"  />
+</div>
+---
 
 ## 🚀 About Me
 - 🔭 I’m currently working on an **Inventory Management System** using Django.
