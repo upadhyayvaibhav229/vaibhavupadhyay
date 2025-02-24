@@ -1,12 +1,12 @@
 # Hi, I'm Vaibhav Upadhyay 👋
 🚀 Full-Stack Developer | React | Node.js | PHP | MySQL
 
-![Profile Views](https://komarev.com/ghpvc/?username=vaibhavupadhyay&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=upadhyayvaibhav229&color=blue)
 
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently working on an **eCommerce website**.
+- 🔭 I’m currently working on an **Inventory Management System** using Django.
 - 🌱 I’m learning **Framer Motion in React**.
 - 👯 I’m looking for **collaborations in open-source projects**.
 - 💬 Ask me about **React, Redux, Tailwind CSS, and JavaScript**.
@@ -20,18 +20,22 @@
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
-![Vaibhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaibhavupadhyay&show_icons=true&theme=radical)
+![Vaibhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=upadhyayvaibhav229&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavupadhyay&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=upadhyayvaibhav229&layout=compact&theme=radical)
 
 ---
 
 ## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=vaibhavupadhyay&theme=darkhub&margin-w=15)
+![Trophies](https://github-profile-trophy.vercel.app/?username=upadhyayvaibhav229&theme=darkhub&margin-w=15)
 
 ---
 
