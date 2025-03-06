@@ -3,7 +3,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=upadhyayvaibhav229&color=blue)
 
-Highly motivated and detail-oriented tech professional seeking to launch a career as a full-stack developer, leveraging skills in coding, problem-solving, and innovative solutions to drive impactful project
+A highly detail oriented and motivated tech professional, who is looking to start a career as a full stack developer. I have a passion to develop robust, maintainable and efficient applications for the end user. We are familiar with the MERN stack and have a good grasp of React, Redux, JavaScript and other backend platforms. The ideal candidate is passionate about learning, solving problems and developing solutions that create value and have a meaningful impact. The ideal candidate should also be interested in learning new technologies, contributing to open source projects and being part of the solution to challenging development problems.
 
 <div align="center">
  <img  src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Web+Developer;Quick+learner;Self+Motivated;Problem+Solver;&color=teal&center=true"  />
