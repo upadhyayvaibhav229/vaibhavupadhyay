@@ -3,11 +3,12 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=upadhyayvaibhav229&color=blue)
 
----
+Highly motivated and detail-oriented tech professional seeking to launch a career as a full-stack developer, leveraging skills in coding, problem-solving, and innovative solutions to drive impactful project
+
 <div align="center">
  <img  src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Web+Developer;Quick+learner;Self+Motivated;Problem+Solver;&color=teal&center=true"  />
 </div>
----
+
 
 ## 🚀 About Me
 - 🔭 I’m currently working on an **Inventory Management System** using Django.
